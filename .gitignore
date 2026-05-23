@@ -2,4 +2,6 @@ target/
 .env
 *.class
 .idea/
+*.iml
 .vscode/
+Thumbs.db
